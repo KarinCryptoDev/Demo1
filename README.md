@@ -1,5 +1,11 @@
-# Demo1
-깃허브 사용 _ 김한규 교수님  </br> 
+# pull request 절차
+Fork</br>
+clone, remote설정</br>
+branch 생성</br>
+수정 작업 후 add, commit, push</br>
+Pull Request 생성</br>
+코드리뷰, Merge Pull Reqest</br>
+Merge 이후 branch 삭제 및 동기화
 
 
 # --- Github의 다양한 기능 ---
